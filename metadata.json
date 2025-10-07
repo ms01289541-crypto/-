@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Angle Generator",
+  "description": "An application to transform a single image into six different angles using AI. Ideal for content creators, this tool generates various perspectives like side angle, top-down, and bird's eye view to enrich storytelling on platforms like YouTube.",
+  "requestFramePermissions": []
+}
